@@ -4,8 +4,8 @@ name: SofleX
 type: shield
 url: https://github.com/josefadamcik/SofleKeyboard
 # url: https://github.com/tien-dev/zmk-soflex
-# requires: [seeed_xiao]
-requires: [seeeduino_xiao_ble]
+requires: [seeed_xiao]
+# requires: [seeeduino_xiao_ble]
 features:
   - keys
   # - display

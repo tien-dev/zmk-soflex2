@@ -1,0 +1,17 @@
+file_format: "1"
+id: soflex
+name: SofleX
+type: shield
+# url: https://github.com/josefadamcik/SofleKeyboard
+url: https://github.com/tien-dev/zmk-soflex
+requires: [seeed_xiao]
+# requires: [pro_micro]
+features:
+  - keys
+  # - display
+  # - encoder
+  # - backlight
+  # - underglow
+siblings:
+  - soflex_left
+  - soflex_right
